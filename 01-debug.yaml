@@ -1,0 +1,14 @@
+---
+- name: My First playbook
+  hosts: all
+  tasks: 
+ 
+  - name: ping the server
+    ping:
+
+  - name: print Hello world
+    debug:
+       msg: "hello world"
+
+
+...
