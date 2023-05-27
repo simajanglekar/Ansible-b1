@@ -10,7 +10,7 @@
         debug:
           msg: "{{ URL }}" 
         vars:
-          URL: 
+          URL: "local"
       - name: print my url3
         debug:
           msg: "{{ URL }}"
