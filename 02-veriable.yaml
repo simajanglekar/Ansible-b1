@@ -1,2 +1,3 @@
 - name: Variable Playbook
+  hosts: all
   
