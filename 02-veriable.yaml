@@ -6,6 +6,7 @@
       - name: print my url1
         debug:
           msg: "{{ URL }}"
+          
       - name: print my url2
         debug:
           msg: "{{ URL }}" 
