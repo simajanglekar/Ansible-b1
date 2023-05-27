@@ -1,7 +1,7 @@
 - name: Variable Playbook
   hosts: all
   vars:
-  URL: "cloud"
+  URL: "gogool"
   tasks:
       - name: print my url
         debug:
