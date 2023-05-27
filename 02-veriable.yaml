@@ -1,7 +1,7 @@
 - name: Variable Playbook
   hosts: all
   vars:
-   URL: "global.google.com"
+   URL: "global.cloudblitz.in"
   tasks:
       - name: print my url1
         debug:
