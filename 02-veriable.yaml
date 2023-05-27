@@ -2,4 +2,5 @@
   hosts: all
   tasks:
       - name: print my url
-        debug
+        debug:
+        
