@@ -7,11 +7,10 @@
         debug:
           msg: "{{ URL }}"
       - name: print my url2
-         debug:
+        debug:
           msg: "{{ URL }}"  
       - name: print my url3
         debug:
           msg: "{{ URL }}"
 
 
-          
