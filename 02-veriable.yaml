@@ -1,5 +1,6 @@
 - name: Variable Playbook
   hosts: all
+  vars:
   tasks:
       - name: print my url
         debug:
