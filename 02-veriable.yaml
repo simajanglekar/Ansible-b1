@@ -2,7 +2,8 @@
   hosts: all
   vars:
    URL: "global.cloudblitz.in"
-  vars_files: 
+  vars_files:
+    
   tasks:
       - name: print my url1
         debug:
