@@ -2,4 +2,4 @@
 ----------------
 
 
-Verable
+Veriable on the besis of scop
