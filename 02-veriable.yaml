@@ -9,3 +9,7 @@
          name: print my url
         debug:
           msg: "{{ URL }}"  
+
+           name: print my url
+        debug:
+          msg: "{{ URL }}"
