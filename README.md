@@ -2,4 +2,4 @@
 ----------------
 
 
-Veriable on the besis of scop
+Veriable on the basis of scope
