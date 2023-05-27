@@ -1,4 +1,4 @@
 - name: Variable Playbook
   hosts: all
   tasks:
-       -
+      - name: print 
