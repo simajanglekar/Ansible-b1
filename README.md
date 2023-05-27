@@ -2,4 +2,6 @@
 ----------------
 
 
-### Veriable on the basis of scope
+### Veriable on the basis of 
+
+1. local
