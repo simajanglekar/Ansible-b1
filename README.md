@@ -6,5 +6,5 @@
 
 1. local
 2. file
-3
-2. global
+3. prompt
+4. global
