@@ -1,6 +1,6 @@
 - name: Variable Playbook
   hosts: all
-vars:
+  vars:
    URL: "global.cloudblitz.in"
   vars_files:
    - ./variable.yaml
