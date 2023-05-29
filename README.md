@@ -8,3 +8,4 @@
 3. file
 4. prompt
 5. global
+6. hosts
