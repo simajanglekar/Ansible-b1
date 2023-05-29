@@ -3,7 +3,7 @@
   vars:
    URL: "global.cloudblitz.in"
   vars_files:
-    - ./variable.yaml
+   - ./variable.yaml
   tasks:
       - name: print my url1
         debug:
